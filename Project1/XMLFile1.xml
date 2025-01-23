@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>6.jpg</ImageUrl>
+		<NavigateUrl>https://youtu.be/WMweEpGlu_U?si=RuSjLp_yaxs7we1b</NavigateUrl>
+		<AlternativeText>Buttor</AlternativeText>
+		<Keyword>K-pop</Keyword>
+		<Impression>5</Impression>
+	</Ad>
+	<Ad>
+		<ImageUrl>9.jpg</ImageUrl>
+		<NavigateUrl>https://youtu.be/gdZLi9oWNZg?si=rlz8U5FRYswoG3Cq</NavigateUrl>
+		<AlternativeText>Dynamite</AlternativeText>
+		<Keyword>K-pop</Keyword>
+		<Impression>5</Impression>
+	</Ad>
+</Advertisements>

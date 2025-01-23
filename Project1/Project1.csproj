@@ -67,11 +67,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="6.jpg" />
+    <Content Include="9.jpg" />
+    <Content Include="AddRotator.aspx" />
     <Content Include="multiviewdemo.aspx" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
+    <Content Include="XMLFile1.xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddRotator.aspx.cs">
+      <DependentUpon>AddRotator.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddRotator.aspx.designer.cs">
+      <DependentUpon>AddRotator.aspx</DependentUpon>
+    </Compile>
     <Compile Include="multiviewdemo.aspx.cs">
       <DependentUpon>multiviewdemo.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
